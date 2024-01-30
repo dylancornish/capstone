@@ -1,0 +1,9 @@
+1-30-24
+
+Progress- I've finally finalized my project outline. I know what models I want to start with. Found a lot of python code to borrow from.
+
+Problems- Still working on getting the API setup with the broker.
+
+Plans- Getting the API working correctly. Making sure the data is formatted correctly. Doing some small model testing. 
+
+I've spent about 3 hours researching and planning. Looking at example projects using Python and gathering resources. 
